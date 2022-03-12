@@ -1,5 +1,5 @@
 # Portfolio
-This repository My portfolio website
+This repository my portfolio website.
 
 [Here](https://github.com/shistok1/HTML-and-CSS-Projects/tree/main/basic_html_and_css/project) is a mock Space travel agency website made using HTML and CSS.
 
